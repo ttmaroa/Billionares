@@ -11,9 +11,9 @@ Dropped irrelevant columns such as firstName, lastName, birthYear, birthMonth, b
 
 ## Exploratory Data Analysis (EDA):
 
-Industries Analysis: Identified and visualized the industries with the highest number of billionaires using value_counts() and a bar chart.
+-Industries Analysis: Identified and visualized the industries with the highest number of billionaires using value_counts() and a bar chart.
 
-Country Analysis: Determined the countries with the most billionaires, displaying the top contenders.
+-Country Analysis: Determined the countries with the most billionaires, displaying the top contenders.
 
 Country-Specific Industry Deep Dive: Explored and listed the top industries for billionaires within the leading countries (e.g., United States, China, United Kingdom, Germany, India).
 
